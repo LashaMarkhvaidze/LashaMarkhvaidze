@@ -28,3 +28,62 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LashaMarkhvaidze&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+ <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LashaMarkhvaidze&hide_border=true" />
+</details>
+
+ <details>
+  <summary><b>🚀 Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/LashaMarkhvaidze/Vepkhistkaosani"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/LashaMarkhvaidze/Vepkhistkaosani?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/LashaMarkhvaidze/Vepkhistkaosanir?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/LashaMarkhvaidze/Vepkhistkaosani?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LashaMarkhvaidze/Vepkhistkaosani?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/LashaMarkhvaidze/Vepkhistkaosani?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
