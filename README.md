@@ -41,7 +41,12 @@
  <summary><b>🤖 Projects</b></summary>
 
   <br />
-   <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a>
+  <ul>
+   <li> <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a> </li>
+   <li> <a href="https://lashamarkhvaidze.github.io/Chakrulo/"><b>Chakrulo</b></a> </li>
+   <li> <a href="https://lashamarkhvaidze.github.io/True-Kartvelian/"><b>True Kartvelian</b></a> </li>
+   <li> <a href="https://lashamarkhvaidze.github.io/CPPC/"><b>Car Plate Price Calculator</b></a> </li>
+  </ul>
 </details>
 
 
