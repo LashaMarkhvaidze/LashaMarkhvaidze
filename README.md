@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Lasha</h2>
 
-<!---
+<!--- a
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
