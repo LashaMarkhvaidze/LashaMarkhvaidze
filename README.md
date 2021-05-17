@@ -44,7 +44,7 @@
 
   <br />
   
-  <a href="https://github.com/LashaMarkhvaidze/Projects/blob/main/README.md"><b>Detailed Projects</b></a>
+  <a href="https://github.com/LashaMarkhvaidze/Projects/blob/main/README.md"><b>Detailed Projects 👈</b></a>
   
   <ul>
    <li> <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a> </li>
