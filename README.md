@@ -22,6 +22,7 @@
   <summary><b>⚡ Github Stats</b></summary>
   
   <br />
+  
   <p align="center">
 <a href="https://github.com/LashaMarkhvaidze">
   <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LashaMarkhvaidze&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -34,6 +35,7 @@
  <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LashaMarkhvaidze&hide_border=true" />
 </details>
 
@@ -41,6 +43,9 @@
  <summary><b>🤖 Projects</b></summary>
 
   <br />
+  
+  <a href="https://github.com/LashaMarkhvaidze/Projects/blob/main/README.md"><b>Detailed Projects</b></a>
+  
   <ul>
    <li> <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a> </li>
    <li> <a href="https://lashamarkhvaidze.github.io/Chakrulo/"><b>Chakrulo</b></a> </li>
