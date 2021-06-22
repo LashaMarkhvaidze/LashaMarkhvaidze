@@ -1,4 +1,4 @@
-<h2>Yo, here's my info, check it out</h2>
+<h2>here's my info, check it out</h2>
 
 <!--- a
 ### 🛠 &nbsp;Tech Stack
