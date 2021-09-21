@@ -52,8 +52,8 @@
    <li> <a href="https://lashamarkhvaidze.github.io/True-Kartvelian/"><b>True Kartvelian</b></a> </li>
    <li> <a href="https://lashamarkhvaidze.github.io/CPPC/"><b>Car Plate Price Calculator</b></a> </li>
    <li> <a href="https://github.com/LashaMarkhvaidze/LinkShortener"><b>Link Shortener</b></a> </li>
+   <li> <a href="https://github.com/LashaMarkhvaidze/Chess-Board"><b>Chess Board</b></a> </li>
 
   </ul>
 </details>
-
 
