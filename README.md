@@ -38,7 +38,14 @@
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LashaMarkhvaidze&hide_border=true" />
 </details>
+<details>
+  <br />
 
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=LashaMarkhvaidze&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+    <br />
+
+</details>
 <details>
  <summary><b>🤖 Projects</b></summary>
 
