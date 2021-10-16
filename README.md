@@ -43,29 +43,29 @@
   <summary><b>📈 Graph</b></summary>
   <br />
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=LashaMarkhvaidze&theme=github&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</details>
-<details>
- <summary><b>🤖 Projects</b></summary>
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=LashaMarkhvaidze&theme=github&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <br />
-  
-  <a href="https://github.com/LashaMarkhvaidze/Projects/blob/main/README.md"><b>Detailed Projects 👈</b></a>
-  
-  <ul>
-   <li> <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a> </li>
-   <li> <a href="https://lashamarkhvaidze.github.io/Chakrulo/"><b>Chakrulo</b></a> </li>
-   <li> <a href="https://lashamarkhvaidze.github.io/True-Kartvelian/"><b>True Kartvelian</b></a> </li>
-   <li> <a href="https://lashamarkhvaidze.github.io/CPPC/"><b>Car Plate Price Calculator</b></a> </li>
-   <li> <a href="https://github.com/LashaMarkhvaidze/LinkShortener"><b>Link Shortener</b></a> </li>
-   <li> <a href="https://github.com/LashaMarkhvaidze/Chess-Board"><b>Chess Board</b></a> </li>
-   <li> <a href="https://github.com/LashaMarkhvaidze/Top-10-Crypto-API"><b>Top 10 Crypto Api</b></a> </li>
-   <li> <a href="https://github.com/LashaMarkhvaidze/GeD-Converter"><b>GeD Converter</b></a> </li>
+  </details>
+  <details>
+   <summary><b>🤖 Projects</b></summary>
+
+    <br />
+
+    <a href="https://github.com/LashaMarkhvaidze/Projects/blob/main/README.md"><b>Detailed Projects 👈</b></a>
+
+    <ul>
+     <li> <a href="https://lashamarkhvaidze.github.io/Vepkhistkaosani/"><b>Vepkhistkaosani</b></a> </li>
+     <li> <a href="https://lashamarkhvaidze.github.io/Chakrulo/"><b>Chakrulo</b></a> </li>
+     <li> <a href="https://lashamarkhvaidze.github.io/True-Kartvelian/"><b>True Kartvelian</b></a> </li>
+     <li> <a href="https://lashamarkhvaidze.github.io/CPPC/"><b>Car Plate Price Calculator</b></a> </li>
+     <li> <a href="https://github.com/LashaMarkhvaidze/LinkShortener"><b>Link Shortener</b></a> </li>
+     <li> <a href="https://github.com/LashaMarkhvaidze/Chess-Board"><b>Chess Board</b></a> </li>
+     <li> <a href="https://github.com/LashaMarkhvaidze/Top-10-Crypto-API"><b>Top 10 Crypto Api</b></a> </li>
+     <li> <a href="https://github.com/LashaMarkhvaidze/GeD-Converter"><b>GeD Converter</b></a> </li>
 
 
-  </ul>
-</details>
+    </ul>
+  </details>
 -->
  
  ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
