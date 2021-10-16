@@ -1,4 +1,5 @@
-<!-- <h2>Web Developer</h2>
+<!-- 
+<h2>Web Developer</h2>
 
 <!--- a
 ### 🛠 &nbsp;Tech Stack
@@ -65,7 +66,6 @@
 
   </ul>
 </details>
-
- -->
+-->
  
  ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
