@@ -19,7 +19,7 @@
 
 ### Projects and Dev Stuffs:
 -->
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
   
   <br />
@@ -65,7 +65,6 @@
 
 
     </ul>
-  </details>
--->
+  </details> -->
  
  ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
