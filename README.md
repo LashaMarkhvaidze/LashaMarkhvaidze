@@ -67,4 +67,5 @@
     </ul>
   </details> -->
  
- ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
+<!--  ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
+ -->
