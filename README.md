@@ -71,4 +71,4 @@
  -->
  
  
-<code> Sorry, user no longer using Github after exploring Gitlab </code>
+<code> Sorry, user moved to GITLAB </code>
