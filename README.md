@@ -70,5 +70,3 @@
 <!--  ![Visitor Count](https://profile-counter.glitch.me/LashaMarkhvaidze/count.svg)
  -->
  
- 
-<code> Sorry, user moved to GITLAB </code>
